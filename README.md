@@ -1,5 +1,7 @@
 # Counter
 
+*solid sprint for increment and save functions ... simple while powerful code*
+
 ##### FIRST NAME: La'Tonia Mertica
 ###### note_1: pronounced *luh tone yuh merr treece*
 <br>
